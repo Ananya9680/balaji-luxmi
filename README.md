@@ -30,8 +30,9 @@ A professional product showcase website for Jai Shree Balaji Screw House, built 
     pnpm dev
     ```
 
-3.  Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+3.  Open https://balaji-luxmi-three.vercel.app/store   with your browser to see the result.
 
 ## Managing Products
 
-Edit `public/data/products.yaml` to add, remove, or update products. The website automatically reads from this file.
+
+
